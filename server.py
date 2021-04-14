@@ -6,6 +6,7 @@ from examples import (
 
 pages = [
     hello.hello_world,
+    hello.hello_world_02,
 ]
 
 
