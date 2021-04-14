@@ -1,12 +1,15 @@
 import justpy as jp
 
 from examples import (
-    hello
+    hello,
+    handling_events,
 )
 
 pages = [
     hello.hello_world,
     hello.hello_world_02,
+
+    handling_events.handling_events_01,
 ]
 
 
