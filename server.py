@@ -11,6 +11,8 @@ pages = [
 
     handling_events.handling_events_01,
     handling_events.handling_events_02,
+    handling_events.handling_events_03,
+    handling_events.handling_events_04,
 ]
 
 
